@@ -33,7 +33,7 @@ void readAfile()
 }
 
 void aDFS
-(
+{
     for(;;)
     {
         color(u) = black;
@@ -49,4 +49,4 @@ void aDFS
             }
         }
     }
-)
+}
