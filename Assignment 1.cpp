@@ -5,6 +5,7 @@
 using namespace std;
 
 void readAfile();
+void aDFS();
 
 int main()
 {
@@ -30,3 +31,22 @@ void readAfile()
 
     return;
 }
+
+void aDFS
+(
+    for(;;)
+    {
+        color(u) = black;
+        for(;;)
+        {
+            for(;;)
+            {
+                if color(w) == 'white';
+                {
+                    color(w) = 'black';
+
+                }
+            }
+        }
+    }
+)
