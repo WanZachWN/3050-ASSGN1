@@ -9,7 +9,7 @@ void aDFS();
 
 int main()
 {
-    readAfile(); 6
+    readAfile();
 
     return 0;
 }
